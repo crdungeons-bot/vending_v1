@@ -16,7 +16,7 @@ export default function Home() {
               className="rounded-full"
             />
             <div>
-              <h1 className="text-2xl font-bold text-brand-green">Dunning Reed Vending</h1>
+              <h1 className="text-2xl font-bold text-red-600">Dunning Reed Vending</h1>
               <p className="text-sm text-gray-600">Locally owned & operated</p>
             </div>
           </div>
